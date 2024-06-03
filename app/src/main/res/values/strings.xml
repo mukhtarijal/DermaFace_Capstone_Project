@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DermaFace</string>
+    <string name="logo">DermaFace Logo</string>
+    <string name="login_image">Login Image</string>
+    <string name="login_instructions">Silahkan masuk dengan akun Google</string>
+    <string name="btn_login">Lanjutkan dengan Google</string>
+    <string name="hello_user">Hello, Pengguna</string>
+    <string name="google_logo">Google Logo</string>
+    <string name="menu_icon">Menu Icon</string>
+    <string name="scan_icon">scan icon</string>
+    <string name="scan">Pindai</string>
+    <string name="scan_instructions">Klik untuk memulai pemindaian</string>
+    <string name="article">Artikel</string>
+    <string name="title">Judul</string>
+    <string name="article_image">Gambar Artikel</string>
+    <string name="desc">Deskripsi</string>
+    <string name="scan_history">Riwayat Pemindaian</string>
+    <string name="exit">Keluar</string>
+    <string name="back">Kembali</string>
+    <string name="article_title">Artikel</string>
+    <string name="scan_result">Hasil Pemindaian</string>
+    <string name="diagnosis_result">Hasil Diagnosa:</string>
+    <string name="diagnosis_result_text">Hasil diagnosa disini</string>
+    <string name="treatment_recommendation">Rekomendasi Perawatan: </string>
+    <string name="treatment_recommendation_result">Saran Rekomendasi Perawatan Disini</string>
+    <string name="save">Simpan</string>
+    <string name="result_image">Gambar Hasil Pindai</string>
+</resources>
