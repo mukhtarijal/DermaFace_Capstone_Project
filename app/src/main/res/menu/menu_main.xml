@@ -12,5 +12,5 @@
         android:orderInCategory="101"
         android:title="@string/exit"
         android:icon="@drawable/ic_baseline_logout"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="never" />
 </menu>
